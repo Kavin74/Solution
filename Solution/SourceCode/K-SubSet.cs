@@ -34,7 +34,7 @@ namespace SourceCode
             subset(A, k, start + 1, currLen, used);
         }
 
-        public static void Main(String[] args)
+        public static void Init()
         {
             int[] dataSet = { 1, 2, 3, 4, 5 };
             Boolean[] B = new Boolean[dataSet.Length];
