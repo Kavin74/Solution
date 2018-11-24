@@ -1,0 +1,6 @@
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/bin/Debug/HackerRank.exe
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/bin/Debug/HackerRank.pdb
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/obj/x86/Debug/HackerRank.csprojAssemblyReference.cache
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/obj/x86/Debug/HackerRank.csproj.CoreCompileInputs.cache
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/obj/x86/Debug/HackerRank.exe
+/Users/kavink/Projects/HackerRank/HackerRank/HackerRank/obj/x86/Debug/HackerRank.pdb

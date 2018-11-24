@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{37314CF4-6BDB-4452-A447-B764B2E5D046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCode", "SourceCode\SourceCode.csproj", "{E22FD39A-48FA-4AE3-9D4E-A2FBBED6828A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37314CF4-6BDB-4452-A447-B764B2E5D046}.Debug|x86.ActiveCfg = Debug|x86
+		{37314CF4-6BDB-4452-A447-B764B2E5D046}.Debug|x86.Build.0 = Debug|x86
+		{37314CF4-6BDB-4452-A447-B764B2E5D046}.Release|x86.ActiveCfg = Release|x86
+		{37314CF4-6BDB-4452-A447-B764B2E5D046}.Release|x86.Build.0 = Release|x86
+		{E22FD39A-48FA-4AE3-9D4E-A2FBBED6828A}.Debug|x86.ActiveCfg = Debug|x86
+		{E22FD39A-48FA-4AE3-9D4E-A2FBBED6828A}.Debug|x86.Build.0 = Debug|x86
+		{E22FD39A-48FA-4AE3-9D4E-A2FBBED6828A}.Release|x86.ActiveCfg = Release|x86
+		{E22FD39A-48FA-4AE3-9D4E-A2FBBED6828A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal
